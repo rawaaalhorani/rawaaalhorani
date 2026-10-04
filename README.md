@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi, I'm Rawaa! 👋
 
-<!--
-**rawaaalhorani/rawaaalhorani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Fourth-Year Statistics Student | Data Science & AI Minor**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a fourth-year Statistics student with a minor in Data Science and Artificial Intelligence. I am passionate about exploring data, discovering meaningful insights, and applying statistical methods and programming to solve real-world problems.
+
+I am continuously developing my technical skills through academic and personal projects, with a particular interest in Data Analysis, Statistical Modeling, and Machine Learning.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Data Analysis**
+
+* Python
+* SQL
+* R
+* Pandas
+* NumPy
+
+**Statistics & Data Visualization**
+
+* Statistical Analysis
+* SPSS
+* Matplotlib
+* Seaborn
+* Data Visualization
+
+**Currently Exploring**
+
+* Machine Learning
+* Exploratory Data Analysis (EDA)
+* Power BI
+* Data-Driven Decision Making
+
+---
+
+## 📂 Featured Projects
+
+
+### 1. Used Car Price Prediction
+
+* Explored the relationship between car characteristics and selling prices.
+* Applied data preprocessing and exploratory data analysis.
+* Developed a beginner-friendly machine learning model to predict car prices.
+
+**Tools:** Python, Pandas, Scikit-learn, Matplotlib
+
+### 2. ShopEase – Database Management System
+
+* Designed a relational database for an online retail system.
+* Applied database normalization and SQL queries.
+* Worked with entities, relationships, and constraints.
+
+**Tools:** SQL, Database Design
+
+### 3. Bank Simulation System
+- Developed a simple banking system using Python.
+- Implemented basic banking operations such as deposits, withdrawals, and balance inquiries.
+- Applied programming fundamentals and problem-solving techniques.
+
+**Tools:** Python
+
+---
+
+## 🌱 Currently Learning
+
+* Strengthening my Python programming skills.
+* Improving my SQL and database management knowledge.
+* Developing practical skills in Data Analysis and Visualization.
+* Learning the fundamentals of Machine Learning.
+* Building a professional portfolio through hands-on projects.
+
+---
+
+## 🎯 Career Goals
+
+My goal is to become a skilled Data Analyst and continue growing in the fields of Data Science and Artificial Intelligence.
+
+I am eager to gain practical experience, contribute to meaningful projects, and apply my statistical background to real-world data challenges.
+
+---
+
+## 📫 Connect With Me
+
+* **LinkedIn:** [www.linkedin.com/in/rawaa-alhorani]
+* **Email:** [raw3aalhorani@gmail.com]
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my projects and follow my learning journey.*
