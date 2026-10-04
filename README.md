@@ -63,6 +63,19 @@ I am continuously developing my technical skills through academic and personal p
 
 **Tools:** Python
 
+### 4. Online Retail Analysis Using PySpark
+
+* Collaborated with a team to analyze online retail data using PySpark.
+* Performed data cleaning and preprocessing to ensure data quality and consistency.
+* Conducted exploratory data analysis (EDA) to identify patterns and insights in the dataset.
+* Contributed to data visualization to communicate key findings.
+* Participated in writing and preparing the final project report.
+
+**Tools:** Python, PySpark, Data Analysis, Data Visualization
+
+**My Contributions:** Data Cleaning, Data Analysis, Visualization, and Report Writing.
+
+
 ---
 
 ## 🌱 Currently Learning
