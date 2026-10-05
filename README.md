@@ -17,6 +17,7 @@ I am continuously developing my technical skills through academic and personal p
 * Python
 * SQL
 * R
+* Excel
 * Pandas
 * NumPy
 
